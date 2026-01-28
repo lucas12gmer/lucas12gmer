@@ -9,7 +9,6 @@ I’m a Java Minecraft Developer; I primarily focus on creating Custom Spigot/Pa
 * Platforms: Spigot/Paper
 * API: Bukkit/Spigot API
 * Config: YAML
-* Development Style: OOP (Object Oriented Programming), Clean Architecture
 ---
 ## What I Provide
 * Custom Minecraft Plugin Development
